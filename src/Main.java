@@ -8,7 +8,7 @@ public class Main {
             System.out.println("Человек в университете");
         }
         if (humanAge >= 24 && humanAge < 18) {
-            System.out.println("Человек ходит на работу");
+            System.out.println("Человек ходит на  работу");
         }
     }
 }
